@@ -1,6 +1,5 @@
 """
 Exemplo criando com a biblioteca sem utilizar o hub
-
 """
 
 import os
