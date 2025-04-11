@@ -1,6 +1,5 @@
 """
 Utilizando o Guardrails AI com RegexMatch do Hub para validar a saída da CrewAI
-
 """
 
 import os
