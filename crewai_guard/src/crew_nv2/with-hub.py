@@ -1,3 +1,9 @@
+"""
+Nesse exemplo, utilizamos o Guardrails AI para validar a saída de uma tarefa de análise de sentimento.
+A validação é feita através de um callback que verifica se a saída está no formato correto e se os valores estão dentro dos limites esperados. 
+O Guardrails AI é configurado para validar a saída de acordo com o modelo Pydantic definido, garantindo que a análise de sentimento esteja correta e formatada adequadamente.
+"""
+
 import os
 from dotenv import load_dotenv
 import sys
